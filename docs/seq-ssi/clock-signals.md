@@ -77,30 +77,30 @@ If the sequential circuit is operated with the clock signal that is transitionin
 
 1.  What is the unit of frequency for a clock signal?
 
-1. Hertz (Hz)
-* Seconds
-* Ohms
+    1. Hertz (Hz)
+    * Seconds
+    * Ohms
 
 2.   What is the term used to describe the time between two consecutive rising edges of a clock signal?
 
-1. Period
-* Frequency
-* Duty cycle
+    1. Period
+    * Frequency
+    * Duty cycle
 
 3.  What is the term used to describe the ratio of the time the clock signal is high to the total time of one cycle?
 
-* Frequency
-* Period
-1. Duty cycle
+    * Frequency
+    * Period
+    1. Duty cycle
 
 4.  What type of oscillator circuit generates a stable clock signal in digital circuits?
 
-* RC oscillator
-1. Crystal oscillator
-* LC oscillator
+    * RC oscillator
+    1. Crystal oscillator
+    * LC oscillator
 
 5.  What is the term used to describe the maximum rate at which a clock signal can change from one state to another?
 
-1. Clock speed
-* Frequency
-* Duty cycle
+    1. Clock speed
+    * Frequency
+    * Duty cycle

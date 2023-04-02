@@ -142,30 +142,30 @@ The JA and KA inputs of FF-A are tied to logic 1. So FF-A will work as a toggle 
 
 1.  What is the primary function of an up-counter?
 
-1. To increment a binary number with each clock cycle
-* To decrement a binary number with each clock cycle
-* To store a binary number
+    1. To increment a binary number with each clock cycle
+    * To decrement a binary number with each clock cycle
+    * To store a binary number
 
 2.  What is the primary function of a down-counter?
 
-1. To decrement a binary number with each clock cycle
-* To increment a binary number with each clock cycle
-* To store a binary number
+    1. To decrement a binary number with each clock cycle
+    * To increment a binary number with each clock cycle
+    * To store a binary number
 
 3.  What type of counter changes its output state on the falling edge of the clock signal?
 
-1. Negative edge-triggered counter
-* Positive edge-triggered counter
-* Asynchronous counter
+    1. Negative edge-triggered counter
+    * Positive edge-triggered counter
+    * Asynchronous counter
 
 4.  In a synchronous counter, which type of flip-flops are used?
 
-1. D flip-flops
-* SR flip-flops
-1. JK flip-flops
+    1. D flip-flops
+    * SR flip-flops
+    1. JK flip-flops
 
 5.  What type of counter has its output state change asynchronously with the input clock signal?
 
-1. Asynchronous (Ripple) counter
-* Synchronous counter
-* Decade counter
+    1. Asynchronous (Ripple) counter
+    * Synchronous counter
+    * Decade counter
