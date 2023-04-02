@@ -231,30 +231,31 @@ Similarly, the following operations take place for every positive edge of the cl
 
 1.  What is the primary function of a flip-flop within a register?
 
-1. To provide temporary storage of a single bit
-* To convert analog signals to digital signals
-* To perform arithmetic operations on data
+
+   1. To provide temporary storage of a single bit
+   * To convert analog signals to digital signals
+   * To perform arithmetic operations on data
 
 2.  Which type of register is used for performing arithmetic and logic operations in a processor?
 
-1. Accumulator register
-* Data register
-* Address register
+   1. Accumulator register
+   * Data register
+   * Address register
 
 3.  Which register is responsible for holding the memory address of the next instruction to be executed in a CPU?
 
-1. Program Counter (PC)
-* Stack Pointer (SP)
-* Instruction Register (IR)
+   1. Program Counter (PC)
+   * Stack Pointer (SP)
+   * Instruction Register (IR)
 
 4.  What is the primary difference between a shift register and a counter?
 
-1. A shift register moves data within a fixed number of stages, while a counter accumulates a count value
-* A shift register calculates the sum of all individual resistances, while a counter calculates the product of individual resistances
-* A shift register stores data temporarily, while a counter amplifies signals
+   1. A shift register moves data within a fixed number of stages, while a counter accumulates a count value
+   * A shift register calculates the sum of all individual resistances, while a counter calculates the product of individual resistances
+   * A shift register stores data temporarily, while a counter amplifies signals
 
 5.  In a microcontroller, which register is used to store the result of an input/output operation?
 
-1. Input-Output Data Register (IODR)
-* General-Purpose Register (GPR)
-* Status Register (SR)
+   1. Input-Output Data Register (IODR)
+   * General-Purpose Register (GPR)
+   * Status Register (SR)
